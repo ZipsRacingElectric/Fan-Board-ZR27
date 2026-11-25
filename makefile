@@ -1,5 +1,5 @@
 # Project name
-PROJECT = stub
+PROJECT = Fan-Board-ZR27
 
 # Imported files
 CHIBIOS  := $(CHIBIOS_SOURCE_PATH)
